@@ -22,6 +22,6 @@ The dataset used for calculating these metrics is obtained from the following li
 
 **Note:** Sustainability is a multi-dimensional concept, and the metrics provided may need to align with your organization's goals and priorities.
 
-The project can serve as a foundation for further analysis and decision-making within supply chain management, including the implementation of machine learning algorithms for route optimization based on specific criteria. I am currently working on more advanced applications like route optimization, geographic data, and visualization, additional libraries such as scikit-learn, NetworkX, OR-Tools, and Folium. I will update the code in sometime here. 
+The project can serve as a foundation for further analysis and decision-making within supply chain management, including the implementation of machine learning algorithms for route optimization based on specific criteria. I am currently working on more advanced applications like route optimization, geographic data, and visualization, additional libraries such as scikit-learn, NetworkX, OR-Tools, and Folium. I will update the code in here. 
 
 *Note: Ensure the availability of the required datasets and proper data paths for successful execution.*
